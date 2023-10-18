@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki2825624&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=000,e86445,904e95&title_color=000&text_color=000&icon_color=000)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki2825624&langs_count=8&theme=transparent&bg_color=000,e86445,904e95&title_color=000&text_color=000&icon_color=000&layout=donut-vertical)](https://github.com/yuki2825624/github-readme-stats)<br>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yuki2825624&theme=transparent&bg_color=000,e86445,904e95&title_color=000&text_color=000&icon_color=000&layout=compact)](https://github.com/yuki2825624/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki2825624&langs_count=8&theme=dracula&bg_color=000,e86445,904e95&title_color=000&text_color=000&icon_color=000&layout=donut-vertical)](https://github.com/yuki2825624/github-readme-stats)<br>
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yuki2825624&theme=dracula&bg_color=000,e86445,904e95&title_color=000&text_color=000&icon_color=000&layout=compact)](https://github.com/yuki2825624/github-readme-stats) ->

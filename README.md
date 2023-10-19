@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Stats
+### Badges
 
 ![wakatime](https://wakatime.com/badge/user/018b45a1-c220-437c-8d68-6aae39564c41.svg)
+
+### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki2825624&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000)
 

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki2825624&show=reviefws,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki2825624&show=reviefws,discussions_started,discussions_answered,prs_merged&show_icons=true&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki2825624&langs_count=8&theme=github_dark&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000&layout=donut-vertical)
 

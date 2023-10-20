@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yuki2825624&theme=github_dark&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000&layout=compact)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yuki2825624&theme=github_dark&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yuki2825624&theme=github_dark)

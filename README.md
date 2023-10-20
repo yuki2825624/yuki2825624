@@ -13,14 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Badges
+### Social
+
+[![discord](https://img.shields.io/badge/Discord-%4169E1.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg) [![twitter](https://img.shields.io/badge/Discord-%4169E1.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yuki2825624)
+
+### Info
 
 ![wakatime](https://wakatime.com/badge/user/018b45a1-c220-437c-8d68-6aae39564c41.svg)
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki2825624&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki2825624&show=reviefws,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki2825624&langs_count=8&theme=github_dark&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000&layout=donut-vertical)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yuki2825624&theme=github_dark&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000&layout=compact)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yuki2825624&theme=github_dark&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000&layout=donut-vertical)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yuki2825624&theme=github_dark&bg_color=000,afeeee,1e90ff&title_color=000&text_color=000&icon_color=000&layout=compact)

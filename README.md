@@ -1,9 +1,8 @@
 # yuki
 
 ![Profile views](https://komarev.com/ghpvc/?username=yuki2825624&label=Profile+views&color=78716C&style=flat-square)
-
-フロントエンド開発とMinecraft統合版のアドオン制作をしている学生です。  
-TypeScriptが好きで、QiitaではScriptAPIの使い方を解説しています。  
+学生。主にフロントエンドで開発を行っている。  
+好きな言語はTypeScript。  
 趣味はボードゲームとプログラミング。
 
 <p>
@@ -15,7 +14,7 @@ TypeScriptが好きで、QiitaではScriptAPIの使い方を解説していま�
 
 ## ⚙︎ Tech Stack
 
-**Languages**
+**Programming**
 
 <p>
     <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,c,rust&amp;theme=light&amp;perline=7" alt="TypeScript, JavaScript, Python, Java, C#, C, Rust">

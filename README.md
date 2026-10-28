@@ -1,6 +1,7 @@
 # yuki
 
 ![Profile views](https://komarev.com/ghpvc/?username=yuki2825624&label=Profile+views&color=78716C&style=flat-square)
+
 学生。主にフロントエンドで開発を行っている。  
 好きな言語はTypeScript。  
 趣味はボードゲームとプログラミング。

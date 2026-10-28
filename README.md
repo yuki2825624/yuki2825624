@@ -38,7 +38,7 @@
 ![Coding time](https://wakatime.com/badge/user/018b45a1-c220-437c-8d68-6aae39564c41.svg)
 
 <p>
-    <img src="https://github-stats-extended.vercel.app/api?username=yuki2825624&amp;show_icons=true&amp;show=reviews,prs_merged&amp;hide_rank=true&amp;theme=default&amp;bg_color=F5F5F4&amp;title_color=44403C&amp;text_color=57534E&amp;icon_color=78716C&amp;border_color=E7E5E4&amp;border_radius=12&amp;card_width=680" width="680" alt="GitHub activity statistics">
+    <img src="https://github-stats-extended.vercel.app/api?username=yuki2825624&amp;show_icons=true&amp;show=reviews,prs_merged&amp;hide_rank=false&amp;theme=default&amp;bg_color=F5F5F4&amp;title_color=44403C&amp;text_color=57534E&amp;icon_color=78716C&amp;border_color=E7E5E4&amp;border_radius=12&amp;card_width=680" width="680" alt="GitHub activity statistics">
 </p>
 
 <p>

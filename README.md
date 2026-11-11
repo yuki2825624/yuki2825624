@@ -13,7 +13,7 @@
     <a href="https://discord.gg/dF3XZxRq3U"><img src="https://img.shields.io/badge/Discord-F5F5F4?style=flat-square&amp;logo=discord&amp;logoColor=57534E" alt="Discord server"></a>
 </p>
 
-## ⚙︎ Tech Stack
+## Tech Stack
 
 **Programming**
 
@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,visualstudio,idea&amp;theme=light&amp;perline=7" alt="Vite, Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA">
 </p>
 
-## ◷ Activity
+## Activity
 
 ![Coding time](https://wakatime.com/badge/user/018b45a1-c220-437c-8d68-6aae39564c41.svg)
 
